@@ -1,6 +1,34 @@
 # AI-ML-DCS-404-Python
-This repository contains my coursework, laboratory exercises, assignments, and practical implementations completed for the DCS 404 – Artificial Intelligence and Machine Learning course. It showcases the end-to-end machine learning workflow, from data preprocessing and exploratory data analysis (EDA) to model development, evaluation, and optimization. The notebooks demonstrate the implementation of various machine learning and deep learning algorithms using Python, with a focus on understanding their underlying concepts and real-world applications.
+# AI-ML-DCS-404-PYTHON
 
-The repository includes a wide range of topics such as data cleaning, feature engineering, visualization, regression, classification, decision trees, tree-based ensemble methods, clustering, neural networks, recurrent neural networks (RNN), long short-term memory (LSTM) networks, and sentiment analysis. It also covers model evaluation techniques, cross-validation, performance metrics, and hyperparameter tuning to improve model accuracy and generalization.
+This repository contains my laboratory exercises, assignments, and practical implementations completed as part of the **DCS 404 – Artificial Intelligence and Machine Learning** course. The notebooks demonstrate the implementation of fundamental machine learning concepts using Python, covering the complete workflow from data loading and preprocessing to model training, evaluation, and interpretation.
 
-Several publicly available datasets have been used throughout these exercises, including datasets for housing price prediction, customer churn analysis, handwritten digit recognition, SMS spam detection, movie reviews, Twitter sentiment analysis, and other structured and unstructured datasets. Each notebook demonstrates the complete machine learning pipeline, including data loading, preprocessing, model training, testing, and performance evaluation.
+The repository includes exercises on exploratory data analysis (EDA), data preprocessing, regression, classification, decision tree and tree-based algorithms, Naïve Bayes classification, model evaluation, and hyperparameter tuning. Various publicly available datasets are used throughout the notebooks to gain hands-on experience with real-world machine learning problems.
+
+The projects are implemented using **Python**, **Jupyter Notebook**, **NumPy**, **Pandas**, **Matplotlib**, and **Scikit-learn**, providing practical experience in building, evaluating, and comparing machine learning models.
+
+## Topics Covered
+
+- Exploratory Data Analysis (EDA)
+- Data Cleaning and Preprocessing
+- Regression Analysis
+- Classification Algorithms
+- Decision Trees
+- Tree-Based Algorithms
+- Naïve Bayes
+- Hyperparameter Tuning
+- Model Evaluation
+- Data Visualization
+
+## Technologies
+
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Repository Purpose
+
+This repository serves as a collection of course exercises and practical implementations completed during the DCS 404 Artificial Intelligence and Machine Learning course. It documents my learning process and demonstrates the application of fundamental machine learning techniques using Python.
